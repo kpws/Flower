@@ -1,0 +1,4 @@
+This program simulates 2d fluid flow. The simulation isn't very accurate, just some hacks done after learning about navier-stokes in a vector-field course, aim was to make it LOOK real. Computations are done on GPU through openGL/GLSL. Videoclip on youtube from an older version:
+http://www.youtube.com/watch?v=mTyk_oDSGqo
+
+ZAPI is needed for building. Sorry for not uploading makefile if anyone wants to try to run it, I used some eclipse for building so I don't know how to generate it. License GPL3.
